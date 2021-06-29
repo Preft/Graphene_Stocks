@@ -90,7 +90,7 @@ GraphSetUp = (stockTicker) => {
   }
 
   // Get Data
-  d3.csv(`${stockTicker}.csv`).then(function (data, err) {
+  d3.csv(`/Resources/${stockTicker}.csv`).then(function (data, err) {
     //if (err) throw err;
     var dateParser = d3.timeParse("%Y-%m-%d");
 
