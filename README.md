@@ -1,7 +1,7 @@
 # Graphene_Stocks
 Pulling and Reviewing Data for Graphene Stocks
 
-### Site
+### Site:
 https://preft.github.io/Graphene_Stocks/
 
 ### Visuals:
